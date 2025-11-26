@@ -1,1 +1,1 @@
- Completed a Loan Prediction Analysis project involving data cleaning, EDA, visualizing key patterns, engineering Total Income, applying log transformations, and creating a correlation heatmap to understand factors influencing loan approvals.
+Completed a Loan Prediction Analysis project involving data cleaning, EDA, visualizing key patterns, engineering Total Income, applying log transformations, and creating a correlation heatmap to understand factors influencing loan approvals.
